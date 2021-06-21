@@ -1,5 +1,0 @@
-cat hello.txt
-d
-q
-dddddddd
-eeeee
