@@ -1,0 +1,9 @@
+cat hello.txt
+d
+q
+dddddddd
+eeeee
+颠三倒四多 
+11111
+Aaaaa
+22222
